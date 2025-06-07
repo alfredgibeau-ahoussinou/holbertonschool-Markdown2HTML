@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+"""
+A script that converts Markdown files to HTML format.
+Supports headings, lists (ordered and unordered), paragraphs,
+bold and emphasis text, and special syntax for MD5 hashing and character removal.
+"""
 
 import sys
 import os
